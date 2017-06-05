@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class oe
+public class oddeven
 {
 public static void main(String args[])
 {
