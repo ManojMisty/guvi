@@ -12,4 +12,4 @@ public class number
       System.out.println("postive");
     if(n==0)
       System.out.println("zero");
-    d}}
+    }}
