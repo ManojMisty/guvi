@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class o&e
+public class oe
 {
 public static void main(String args[])
 {
