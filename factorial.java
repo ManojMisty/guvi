@@ -17,7 +17,7 @@ x=x*i;
 System.out.println("the factorial of the number is "+x);
 }
 else
-{System.out.println(-1);
+{System.out.println(-1);}
 }
 }
 
