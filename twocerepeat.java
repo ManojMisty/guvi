@@ -2,7 +2,7 @@ package tworepeat;
 
 import java.util.Scanner;
 
-public class twicerepeat {
+public class twocerepeat {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
